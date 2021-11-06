@@ -1,2 +1,4 @@
-# Java_programs
-java programs for college purpose only
+- 👋 Hi, this repository contains java programs written by @MubashirChachee
+- 👀 Meant for college purpose only
+- 🌱 Copyright @MubashirCachee
+- 📫 Working to enhance my programming skills and develop some better programs in Java.
